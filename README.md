@@ -42,4 +42,4 @@
     Microsoft. (2025). IF function. https://support.microsoft.com/en-us/office/if-function-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2
 
 ![5_5_Excelproject](https://github.com/user-attachments/assets/ce8fec1c-ef64-4a40-99d5-6826197eacf1)
-![Uploading 3_5_Excelproject.jpg…]()
+
