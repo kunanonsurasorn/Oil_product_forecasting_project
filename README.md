@@ -1,5 +1,7 @@
 การพยากรณ์ราคาน้ำมันโดยใช้วิธีการพยากรณ์แบบง่ายเช่น Moving Average และ Naive Forecast สำหรับพยากรณ์ราคาน้ำมันที่ประเทศเกาหลีใต้ในปี 2000 ถึงปี 2025
 
+![4_5_Excelproject](https://github.com/user-attachments/assets/4a8b49c1-bf2d-4122-87d9-597962787a90)
+
 ## 1.ฟังก์ชัน
 
     1.1 AVERAGE() : AVERAGE(Oil_Price_Dataset[Vehicle diesel])
@@ -39,3 +41,5 @@
 
     Microsoft. (2025). IF function. https://support.microsoft.com/en-us/office/if-function-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2
 
+![5_5_Excelproject](https://github.com/user-attachments/assets/ce8fec1c-ef64-4a40-99d5-6826197eacf1)
+![Uploading 3_5_Excelproject.jpg…]()
