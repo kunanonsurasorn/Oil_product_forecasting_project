@@ -21,7 +21,7 @@
                     IF(D2=11,"November",
                     IF(D2=12,"December"))))))))))))
 
-## 2.Data Visualizatio
+## 2.Data Visualization
 
     กราฟ
 
