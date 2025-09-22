@@ -1,7 +1,33 @@
 การพยากรณ์ราคาน้ำมันโดยใช้วิธีการพยากรณ์แบบง่ายเช่น Moving Average และ Naive Forecast สำหรับพยากรณ์ราคาน้ำมันที่ประเทศเกาหลีใต้ในปี 2000 ถึงปี 2025
 
+## 1.ฟังก์ชัน
 
-บรรณานุกรม
+    1.1 AVERAGE() : AVERAGE(Oil_Price_Dataset[Vehicle diesel])
+
+    1.2 MEDIAN() : MEDIAN(Oil_Price_Dataset[Kerosene])
+
+    1.3 VLOOKUP() : VLOOKUP(I43,Oil_Price_Dataset,3,0)
+
+    1.4 IF() : IF(D2=1,"January",
+                    IF(D2=2,"February",
+                    IF(D2=3,"March",
+                    IF(D2=4,"April",
+                    IF(D2=5,"May",
+                    IF(D2=6,"June",
+                    IF(D2=7,"July",
+                    IF(D2=8,"August",
+                    IF(D2=9,"September",
+                    IF(D2=10,"October",
+                    IF(D2=11,"November",
+                    IF(D2=12,"December"))))))))))))
+
+## 2.Data Visualizatio
+
+    กราฟ
+
+    
+
+## 3.บรรณานุกรม
 
     พิภพ ลลิตาภรณ์. (2553). ระบบการวางแผนและควบคุมการผลิต (ฉบับปรับปรุง).(พิมพ์ครั้งที่ 15).	ebook.lib.ku.ac.th/ebook27/ebook/2014RG0100/
 
