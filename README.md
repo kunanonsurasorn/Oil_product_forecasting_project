@@ -25,7 +25,7 @@
 
     กราฟ
 
-    
+![Graph_Excel](https://github.com/user-attachments/assets/d84a726e-1127-46d3-a560-f186f42921c7)
 
 ## 3.บรรณานุกรม
 
